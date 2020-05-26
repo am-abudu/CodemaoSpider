@@ -8,4 +8,4 @@ pip install requests
 ```
 .exe文件可以直接运行
 
-![Image Text](https://i.loli.net/2020/05/26/lHop5vGYPVzqEb6.png)
+![ID位置](https://i.loli.net/2020/05/26/lHop5vGYPVzqEb6.png)
