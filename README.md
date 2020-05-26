@@ -7,3 +7,4 @@
 pip install requests
 ```
 .exe文件可以直接运行
+![](https://i.loli.net/2020/05/26/lHop5vGYPVzqEb6.png)
